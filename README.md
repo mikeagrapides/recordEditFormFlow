@@ -1,4 +1,4 @@
-## Record Edit Form LWC Component enabled for Flow
+## LWC lightning-record-edit-form enabled for visual flow
 
 Place the recordEditFormLWC component on a flow screen. Enter all inputs in the flow parameters as you would for standard use of the lightning-record-edit-form in an LWC.
 
